@@ -18,7 +18,7 @@ We love collaboration! If you have a project idea or topic you'd like us to cove
 
 ## Connect With Us
 
-- Subscribe to our [YouTube Channel](https://www.youtube.com/deep-tech) for weekly updates.
+- Subscribe to our [YouTube Channel]([(https://www.youtube.com/channel/UCGHj3rDnWVrKiA3D48vP2mQ)]) for weekly updates.
 - Follow us on [Twitter](https://twitter.com/deeptech) for behind-the-scenes content and announcements.
 - Join our [Discord community](https://discord.gg/deeptech) to connect with fellow tech enthusiasts and share ideas.
 
